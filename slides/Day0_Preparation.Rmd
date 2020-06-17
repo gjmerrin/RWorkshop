@@ -241,7 +241,7 @@ Vectors contain **elements of the same type**. The data types can be integer, do
 --
 
 .pull-left[
-- integer (numbers without decimcals)
+- integer (numbers without decimals)
 
 ```{r}
 v1 <- c(1, 2, 3, 4, 5)
